@@ -26,6 +26,9 @@ render.py
 templates/
 configs/
 
+# macOS
+.DS_Store
+
 # Obsidian app data
 .obsidian/
 
