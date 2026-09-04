@@ -3,12 +3,12 @@
 Last updated: 2026-09-04
 
 ## File structure
-- `resume.tex` + `resume.cls` — master source, XeLaTeX, Georgia font, Lucas Swanson layout spec
+- `resume.tex` + `resume.cls` — master source, XeLaTeX, Georgia font, custom layout spec
 - `companies/<name>/resume.tex` — tailored copy per application
 - `companies/<name>/jd.md` — job description
 - `companies/<name>/<name>-cv.pdf` — compiled output
 
-## Layout spec (from Lucas Swanson reference)
+## Layout spec
 - Font: Georgia (Cambria substitute — same designer, Matthew Carter)
 - Name: 20pt, all caps
 - Subtitle tagline: 12.9pt

@@ -32,7 +32,7 @@ Append-only. Most recent first.
 
 ## [2026-06-13] setup | Wiki created
 - Created cv-wiki with index, state, decisions, variants, companies, log pages
-- CV is at current state: 2-page XeLaTeX, Georgia font, Lucas Swanson layout
+- CV is at current state: 2-page XeLaTeX, Georgia font, custom layout
 
 ## [2026-06-06] edit | ATS keyword pass
 - Added Linux, ECS, alerting to Skills section
@@ -41,7 +41,7 @@ Append-only. Most recent first.
 
 ## [2026-06-05] edit | Major rebuild
 - Switched from WeasyPrint HTML/CSS to XeLaTeX with fontspec
-- Adopted Lucas Swanson layout spec exactly (margins, font sizes, bullets)
+- Adopted custom layout spec (margins, font sizes, bullets)
 - Regenerated preview image for blog (later reverted — wrong project)
 - Added Projects section (4 projects from GitHub)
 - Removed rubyrana (vibe-coded)

@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Resume class — XeLaTeX version
-% Tuned to match Lucas Swanson layout spec:
+% Layout spec:
 %   Name: 20pt, Section headers: 12pt bold,
 %   Subtitle: ~12.9pt, Contact: 11pt, Body: 10.5pt
 %   Margins: 0.75L / 0.72R / 0.99T / 0.32B

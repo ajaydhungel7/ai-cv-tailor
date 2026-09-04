@@ -24,7 +24,7 @@ The tailored `.tex` compiles to PDF with XeLaTeX. The master stays untouched.
 | File | Purpose |
 |---|---|
 | `resume.tex` | Master resume — single source of truth, never submitted directly |
-| `resume.cls` | Layout class — Lucas Swanson spec, XeLaTeX, Georgia font |
+| `resume.cls` | Layout class — XeLaTeX, Georgia font, custom layout spec |
 | `cv-data.json` | All content with named variant bullets per section |
 | `CLAUDE.md` | AI instructions — tells Claude how to run the tailoring workflow |
 | `cv-wiki/` | Persistent state: current CV snapshot, decision log, application tracker |

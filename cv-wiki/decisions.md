@@ -1,7 +1,7 @@
 # Design & Content Decisions
 
 ## Layout
-- **Template:** Lucas Swanson style over original resume.cls — his layout is cleaner, more content-dense, and closer to what gets shortlisted at top companies
+- **Template:** Custom resume.cls — clean, content-dense layout optimised for readability and ATS parsing
 - **Font:** Georgia instead of Cambria — Cambria not on macOS, Georgia is same designer (Matthew Carter), near-identical letterforms
 - **Two pages:** Full content warrants two pages; one-page versions to be generated per-company via config + bullet limits
 - **XeLaTeX over pdfLaTeX:** Needed for fontspec to load system fonts (Georgia)
