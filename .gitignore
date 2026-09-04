@@ -1,5 +1,7 @@
-# Per-company tailored resumes and application data
-companies/
+# Per-company tailored resumes and application data — keep example only
+companies/*
+!companies/example-corp/
+!companies/example-corp/jd.md
 
 # Compiled PDFs
 *.pdf
