@@ -1,0 +1,177 @@
+{
+  "personal": {
+    "name": "Ajay Dhungel",
+    "title": "DevOps Engineer",
+    "location": "Toronto, ON",
+    "phone": "+1 4378706261",
+    "email": "dhungelajay@gmail.com",
+    "linkedin": "linkedin.com/in/ajaydhungel/",
+    "blog": "ajaydhungel.blog/"
+  },
+
+  "summary": {
+    "default": "DevOps Engineer with 4+ years delivering secure, scalable AWS infrastructure across SaaS and multi-client environments. Experienced in Terraform, Kubernetes (EKS), and GitHub Actions CI/CD with a security-first approach. Contributed to AWS DevOps Competency designation as an AWS Partner engineer, with a proven track record of maintaining 99.9% uptime, reducing costs, and aligning infrastructure with compliance and reliability standards.",
+    "reliability": "DevOps Engineer with 4+ years owning AWS production platforms across SaaS and multi-client environments. Delivered 99.9% uptime across EKS, RDS Aurora, and serverless workloads through disciplined IaC, GitOps, and proactive observability. Experienced in Terraform, Kubernetes (EKS), and GitHub Actions CI/CD, with a track record of building resilient infrastructure that stays up under pressure.",
+    "security": "DevOps Engineer with 4+ years building secure, compliant AWS infrastructure across SaaS and regulated environments. Led SOC 2 compliance with continuous audit readiness, enforced least-privilege IAM across multi-account AWS setups, and applied shift-left security across CI/CD pipelines. Experienced in Terraform, Kubernetes (EKS), secrets management, and DevSecOps workflows.",
+    "platform": "Platform Engineer with 4+ years building and operating cloud-native AWS infrastructure across SaaS and multi-client environments. Delivered modular Terraform stacks, GitOps via ArgoCD on EKS, and end-to-end CI/CD for containerized services. Contributed to AWS DevOps Competency designation with expertise spanning container orchestration, IaC, and scalable platform design."
+  },
+
+  "experience": [
+    {
+      "id": "deskree",
+      "title": "DevOps Engineer",
+      "company": "Deskree Technologies Inc",
+      "location": "Toronto, ON",
+      "start": "03/2025",
+      "end": "02/2026",
+      "bullets": {
+        "default": [
+          "Delivered 99.9% production uptime by leading AWS platform operations across EKS, RDS Aurora, VPC, and ALB.",
+          "Brought infrastructure fully under IaC control by building modular Terraform stacks with dev/prod Terraform Cloud workspaces, automating plan/apply workflows, and centralizing secrets via AWS Secrets Manager.",
+          "Automated end-to-end delivery for containerized Next.js, TypeScript, and Python MCP server services via GitHub Actions CI/CD, with Ansible-bootstrapped EKS clusters and ArgoCD App of Apps for GitOps deployments.",
+          "Cut monitoring and infrastructure costs by centralizing observability with CloudWatch and Container Insights, building Python Lambda alert routing to Slack, and rightsizing resources.",
+          "Kept the organization continuously audit-ready by maintaining SOC 2 compliance via Vanta, triaging and remediating flagged controls.",
+          "Enforced least-privilege access across all engineering teams by administering multiple AWS accounts under consolidated billing, managing IAM users, roles, and policies."
+        ],
+        "security": [
+          "Kept the organization continuously audit-ready by maintaining SOC 2 compliance via Vanta, triaging and remediating flagged controls.",
+          "Enforced least-privilege access across all engineering teams by administering multiple AWS accounts under consolidated billing, managing IAM users, roles, and policies.",
+          "Brought infrastructure fully under IaC control with modular Terraform stacks, Terraform Cloud workspaces, and centralized secrets via AWS Secrets Manager.",
+          "Automated end-to-end delivery for containerized Next.js, TypeScript, and Python MCP server services via GitHub Actions CI/CD, with Ansible-bootstrapped EKS clusters and ArgoCD App of Apps.",
+          "Delivered 99.9% production uptime by leading AWS platform operations across EKS, RDS Aurora, VPC, and ALB.",
+          "Cut monitoring and infrastructure costs by centralizing observability with CloudWatch and Container Insights, building Python Lambda alert routing to Slack, and rightsizing resources."
+        ],
+        "cost": [
+          "Cut monitoring and infrastructure costs by centralizing observability with CloudWatch and Container Insights, building Python Lambda alert routing to Slack, and rightsizing resources.",
+          "Eliminated infrastructure drift and manual overhead by building modular Terraform stacks with Terraform Cloud workspaces and automated plan/apply workflows, centralizing secrets via AWS Secrets Manager.",
+          "Delivered 99.9% production uptime and cost-efficient operations by leading AWS platform operations across EKS, RDS Aurora, VPC, and ALB.",
+          "Automated end-to-end delivery for containerized Next.js, TypeScript, and Python MCP server services via GitHub Actions CI/CD, reducing manual release effort.",
+          "Kept the organization continuously audit-ready by maintaining SOC 2 compliance via Vanta, triaging and remediating flagged controls.",
+          "Enforced least-privilege access across all engineering teams by administering multiple AWS accounts under consolidated billing."
+        ]
+      }
+    },
+    {
+      "id": "genese",
+      "title": "Cloud Engineer",
+      "company": "Genese Solution",
+      "location": "Kathmandu, Nepal",
+      "start": "03/2022",
+      "end": "12/2023",
+      "bullets": {
+        "default": [
+          "Delivered 99.9% platform availability for clients by designing and operating serverless microservice architectures on AWS using Lambda, DynamoDB, and API Gateway with CloudFormation.",
+          "Streamlined release workflows for Cross River Bank by automating infrastructure provisioning and microservice deployments using Terraform, CloudFormation, CodePipeline, and Jenkins.",
+          "Led 45+ AWS Well-Architected Framework Reviews, producing detailed architecture diagrams in Lucidchart and Draw.io to align clients with AWS best practices.",
+          "Reduced security exposure across multiple client AWS environments by conducting IAM audits and vulnerability assessments, implementing data protection best practices in regulated cloud environments."
+        ],
+        "security": [
+          "Reduced security exposure across multiple client AWS environments by conducting IAM audits and vulnerability assessments, implementing data protection best practices in regulated cloud environments.",
+          "Delivered 99.9% platform availability by designing and operating serverless microservice architectures on AWS using Lambda, DynamoDB, and API Gateway with CloudFormation.",
+          "Led 45+ AWS Well-Architected Framework Reviews, identifying security and operational gaps and producing remediation roadmaps for clients.",
+          "Automated infrastructure provisioning and microservice deployments for Cross River Bank using Terraform, CloudFormation, CodePipeline, and Jenkins."
+        ],
+        "platform": [
+          "Designed and operated serverless microservice architectures on AWS using Lambda, DynamoDB, and API Gateway with CloudFormation, delivering 99.9% platform availability for clients.",
+          "Led 45+ AWS Well-Architected Framework Reviews, producing detailed architecture diagrams in Lucidchart and Draw.io to align clients with AWS best practices.",
+          "Automated infrastructure provisioning and microservice deployments for Cross River Bank using Terraform, CloudFormation, CodePipeline, and Jenkins.",
+          "Reduced security exposure across multiple client AWS environments by conducting IAM audits and vulnerability assessments, implementing data protection best practices in regulated cloud environments."
+        ]
+      }
+    },
+    {
+      "id": "swostech",
+      "title": "AWS Cloud Support Engineer",
+      "company": "Swostech Solutions",
+      "location": "Kathmandu, Nepal",
+      "start": "04/2021",
+      "end": "03/2022",
+      "bullets": {
+        "default": [
+          "Maintained 99.99% EC2 uptime across client environments by supporting AWS Well-Architected Framework Reviews and deploying Sendy email platforms on Ubuntu EC2 with Amazon SES.",
+          "Achieved zero-downtime database cutovers for multiple clients by leading migrations to Amazon RDS using AWS SCT and DMS with continuous replication; optimized post-migration costs through rightsizing.",
+          "Modernized infrastructure for clients transitioning from on-premise to cloud by migrating workloads to AWS including WordPress to Lightsail, web servers to EC2, and application stacks to Elastic Beanstalk."
+        ],
+        "migration": [
+          "Modernized infrastructure for clients transitioning from on-premise to cloud by migrating workloads to AWS including WordPress to Lightsail, web servers to EC2, and application stacks to Elastic Beanstalk.",
+          "Achieved zero-downtime database cutovers for multiple clients by leading migrations to Amazon RDS using AWS SCT and DMS with continuous replication; optimized post-migration costs through rightsizing.",
+          "Maintained 99.99% EC2 uptime across client environments, supporting AWS Well-Architected Framework Reviews and deploying email infrastructure on EC2 with Amazon SES."
+        ],
+        "reliability": [
+          "Maintained 99.99% EC2 uptime across client environments by supporting AWS Well-Architected Framework Reviews and deploying Sendy email platforms on Ubuntu EC2 with Amazon SES.",
+          "Achieved zero-downtime database cutovers for multiple clients by leading migrations to Amazon RDS using AWS SCT and DMS with continuous replication; optimized post-migration costs through rightsizing.",
+          "Modernized infrastructure for clients transitioning from on-premise to cloud, migrating WordPress to Lightsail, web servers to EC2, and application stacks to Elastic Beanstalk."
+        ]
+      }
+    }
+  ],
+
+  "skills": {
+    "default": [
+      {"label": "Container Orchestration", "description": "Kubernetes clusters and Docker container platforms"},
+      {"label": "CI/CD", "description": "End-to-end pipeline design with GitHub Actions and Jenkins; GitOps with ArgoCD"},
+      {"label": "Configuration Management", "description": "Design and maintain flexible configuration systems"},
+      {"label": "Security", "description": "DevSecOps, shift-left practices, SOC 2 alignment, secrets management"},
+      {"label": "Infrastructure as Code", "description": "Modular IaC with Terraform and Ansible"},
+      {"label": "Observability", "description": "CloudWatch, Container Insights, Prometheus, Grafana, Datadog"},
+      {"label": "Cost Discipline", "description": "Right-sizing, efficiency, and long-term sustainability"},
+      {"label": "Scripting", "description": "Bash and Python automation"}
+    ],
+    "platform": [
+      {"label": "Container Orchestration", "description": "Kubernetes clusters and Docker container platforms"},
+      {"label": "Infrastructure as Code", "description": "Modular IaC with Terraform and Ansible"},
+      {"label": "CI/CD", "description": "End-to-end pipeline design with GitHub Actions and Jenkins; GitOps with ArgoCD"},
+      {"label": "Observability", "description": "CloudWatch, Container Insights, Prometheus, Grafana, Datadog"},
+      {"label": "Configuration Management", "description": "Design and maintain flexible configuration systems"},
+      {"label": "Security", "description": "DevSecOps, shift-left practices, SOC 2 alignment, secrets management"},
+      {"label": "Scripting", "description": "Bash and Python automation"},
+      {"label": "Cost Discipline", "description": "Right-sizing, efficiency, and long-term sustainability"}
+    ],
+    "security": [
+      {"label": "Security", "description": "DevSecOps, shift-left practices, SOC 2 alignment, secrets management"},
+      {"label": "Infrastructure as Code", "description": "Modular IaC with Terraform and Ansible"},
+      {"label": "Configuration Management", "description": "Design and maintain flexible configuration systems"},
+      {"label": "CI/CD", "description": "End-to-end pipeline design with GitHub Actions and Jenkins; GitOps with ArgoCD"},
+      {"label": "Container Orchestration", "description": "Kubernetes clusters and Docker container platforms"},
+      {"label": "Observability", "description": "CloudWatch, Container Insights, Prometheus, Grafana, Datadog"},
+      {"label": "Scripting", "description": "Bash and Python automation"},
+      {"label": "Cost Discipline", "description": "Right-sizing, efficiency, and long-term sustainability"}
+    ]
+  },
+
+  "certifications": [
+    "AWS DevOps Engineer - Professional",
+    "AWS Solutions Architect - Professional",
+    "AWS CloudOps Engineer - Associate",
+    "AWS Solutions Architect - Associate",
+    "HashiCorp Terraform Associate (003)"
+  ],
+
+  "education": [
+    {
+      "degree": "Post-Graduate Certificate: DevOps For Cloud Computing",
+      "school": "Lambton College",
+      "location": "Toronto",
+      "year": "2025",
+      "note": "Graduation Dean's List"
+    },
+    {
+      "degree": "Bachelor of Information Management",
+      "school": "Tribhuvan University",
+      "location": "Kathmandu",
+      "year": "2022",
+      "note": ""
+    }
+  ],
+
+  "highlights": [
+    "AWS Community Builder since 2023",
+    "All Builders Welcome Grant recipient 2025",
+    "Speaker: AWS Summit Toronto 2025 - Multi Agent Collaboration on Amazon Bedrock",
+    "Speaker: AWS Summit Toronto 2026 - Configuring Openclaw agents on AWS environment in minutes"
+  ],
+
+  "references": [
+    "Dmytro Grechko | CEO, Deskree | 512-915-0388 | dmytro.grechko@deskree.com"
+  ]
+}

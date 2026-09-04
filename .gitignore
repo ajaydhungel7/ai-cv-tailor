@@ -1,0 +1,33 @@
+# Per-company tailored resumes and application data
+companies/
+
+# Compiled PDFs
+*.pdf
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+missfont.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Old WeasyPrint pipeline (deprecated)
+output/
+render.py
+templates/
+configs/
+
+# Obsidian app data
+.obsidian/
+
+# Obsidian default notes
+Untitled/
+Untitled.md
+Welcome.md
+
+# Reference PDFs
+"Lucas Swanson - October 25 Resume (Two-Page).pdf"
+"Ajay_Dhungel_Resume (3).pdf"
