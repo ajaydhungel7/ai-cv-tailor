@@ -78,31 +78,6 @@
           "Reduced security exposure across multiple client AWS environments by conducting IAM audits and vulnerability assessments, implementing data protection best practices in regulated cloud environments."
         ]
       }
-    },
-    {
-      "id": "swostech",
-      "title": "AWS Cloud Support Engineer",
-      "company": "Swostech Solutions",
-      "location": "Kathmandu, Nepal",
-      "start": "04/2021",
-      "end": "03/2022",
-      "bullets": {
-        "default": [
-          "Maintained 99.99% EC2 uptime across client environments by supporting AWS Well-Architected Framework Reviews and deploying Sendy email platforms on Ubuntu EC2 with Amazon SES.",
-          "Achieved zero-downtime database cutovers for multiple clients by leading migrations to Amazon RDS using AWS SCT and DMS with continuous replication; optimized post-migration costs through rightsizing.",
-          "Modernized infrastructure for clients transitioning from on-premise to cloud by migrating workloads to AWS including WordPress to Lightsail, web servers to EC2, and application stacks to Elastic Beanstalk."
-        ],
-        "migration": [
-          "Modernized infrastructure for clients transitioning from on-premise to cloud by migrating workloads to AWS including WordPress to Lightsail, web servers to EC2, and application stacks to Elastic Beanstalk.",
-          "Achieved zero-downtime database cutovers for multiple clients by leading migrations to Amazon RDS using AWS SCT and DMS with continuous replication; optimized post-migration costs through rightsizing.",
-          "Maintained 99.99% EC2 uptime across client environments, supporting AWS Well-Architected Framework Reviews and deploying email infrastructure on EC2 with Amazon SES."
-        ],
-        "reliability": [
-          "Maintained 99.99% EC2 uptime across client environments by supporting AWS Well-Architected Framework Reviews and deploying Sendy email platforms on Ubuntu EC2 with Amazon SES.",
-          "Achieved zero-downtime database cutovers for multiple clients by leading migrations to Amazon RDS using AWS SCT and DMS with continuous replication; optimized post-migration costs through rightsizing.",
-          "Modernized infrastructure for clients transitioning from on-premise to cloud, migrating WordPress to Lightsail, web servers to EC2, and application stacks to Elastic Beanstalk."
-        ]
-      }
     }
   ],
 

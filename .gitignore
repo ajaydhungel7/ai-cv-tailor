@@ -4,6 +4,10 @@ companies/
 # Compiled PDFs
 *.pdf
 
+# Submission PDFs — keep the folder, ignore contents
+releases/*
+!releases/.gitkeep
+
 # LaTeX build artifacts
 *.aux
 *.log

@@ -23,8 +23,9 @@ Output: `resume.pdf` in the vault root.
 
 To create a submission copy:
 ```bash
-cp "resume.pdf" "Ajay Dhungel - MMM YY Resume (Two-Page).pdf"
+./compile.sh
 ```
+Compiles `resume.tex`, names the output with today's date, and drops it in `releases/`.
 
 ## File structure
 ```
